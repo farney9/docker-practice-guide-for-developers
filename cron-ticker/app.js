@@ -9,4 +9,4 @@ cron.schedule('1-59/5 * * * * * *', () => {
   console.log('Tick every 5 seconds', times);
 });
 
-console.log('Inicio de la tarea programada');
+console.log('Inicio de la aplicación');
