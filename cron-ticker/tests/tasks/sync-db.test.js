@@ -7,8 +7,4 @@ describe('Tests in syncDb', () => {
     const times = syncDb();
     expect(times).toBe(2);
   });
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> 4dd6ef8 (Add tests with Jest)
